@@ -12,15 +12,12 @@ Educational simulations for understanding the MRI signal. This project is create
 
 # On using the scripts
 ## Dependencies
-**[Python](https://www.python.org/downloads/)
+[Python](https://www.python.org/downloads/)
 
 | Package                                        | Tested version |
 |------------------------------------------------|----------------|
 | [matplotlib](http://matplotlib.org/)           | 3.1.1          |
 | [NumPy](http://www.numpy.org/)                 | 1.22.0         |
-| [NiBabel](http://nipy.org/nibabel/)            | 2.5.1          |
-| [SciPy](http://scipy.org/)                     | 1.3.1          |
-| [Compoda](https://github.com/ofgulban/compoda) | 0.3.5          |
 
 ## Getting started
 Clone this repository, navigate to the folder, and execute in your terminal:

@@ -3,6 +3,7 @@ Educational simulations for understanding the MRI signal. This project is create
 
 ## Papers to start from
 - **[A very good starting point]** Hagberg, G., Tuzzi, E., 2014. Phase Variations in fMRI Time Series Analysis: Friend or Foe?, in: Advanced Brain Neuroimaging Topics in Health and Disease - Methods and Applications. InTech. https://doi.org/10.5772/58275
-- **[Figure 4, Equations 1-2]** Ogawa, S., Lee, T., Nayak, A.S., Glynn, P., 1990. Oxygenation‐sensitive contrast in magnetic resonance image of rodent brain at high magnetic fields. Magnetic Resonance in Med 14, 68–78. https://doi.org/10.1002/mrm.1910140108
+- **[On blood oxygenation effect] [Figure 4, Equations 1-2]** Ogawa, S., Lee, T., Nayak, A.S., Glynn, P., 1990. Oxygenation‐sensitive contrast in magnetic resonance image of rodent brain at high magnetic fields. Magnetic Resonance in Med 14, 68–78. https://doi.org/10.1002/mrm.1910140108
 - Ogawa, S., Menon, R.S., Tank, D.W., Kim, S.G., Merkle, H., Ellermann, J.M., Ugurbil, K., 1993. Functional brain mapping by blood oxygenation level-dependent contrast magnetic resonance imaging. A comparison of signal characteristics with a biophysical model. Biophysical Journal 64, 803–812. https://doi.org/10.1016/S0006-3495(93)81441-3
-- **[Equations 1-2]** Boxerman, J.L., Hamberg, L.M., Rosen, B.R., Weisskoff, R.M., 1995. MR contrast due to intravascular magnetic susceptibility perturbations. Magnetic resonance in medicine 34, 555–66.
+- **[On two component model of fMRI signal] [Equations 1-2]** Boxerman, J.L., Hamberg, L.M., Rosen, B.R., Weisskoff, R.M., 1995. MR contrast due to intravascular magnetic susceptibility perturbations. Magnetic resonance in medicine 34, 555–66.
+- **[On magnitude and phase signal distributions] [Figure 1-2]** Gudbjartsson, H., Patz, S., 1995. The rician distribution of noisy mri data. Magnetic Resonance in Med 34, 910–914. https://doi.org/10.1002/mrm.1910340618

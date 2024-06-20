@@ -22,7 +22,7 @@ Educational simulations for understanding the MRI signal. This project is create
 ## Getting started
 Clone this repository, navigate to the folder, and execute in your terminal:
 ```
-python 01_t2star_v1.py
+python 01_t2starsim_v1.py
 ```
 
 If everything went well, you should be able to see and interactive figure as show below:

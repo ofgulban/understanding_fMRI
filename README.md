@@ -1,4 +1,4 @@
-# Understanding_MRI (work in progress)
+# Understanding fMRI (work in progress...) [OHBM 2024 Brainhack project]
 Educational simulations for understanding the MRI signal. This project is created for OHBM Brainhack 2024. The main goal is to create single script simulations that builds up an understanding of the MRI signal step by step. Fundamental papers, and equations will be linked. The long term goal of this project is to build this repository as an educational resource to teach MRI basics. An important source of inspiration for this project is https://www.youtube.com/c/3blue1brown .
 
 ## Papers to start from

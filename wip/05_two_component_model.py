@@ -160,19 +160,19 @@ axcolor = 'lightgoldenrodyellow'
 # Sliders
 # -----------------------------------------------------------------------------
 # Position parameters [left, bottom, width, height]
-pos_slider1 = [0.15, 0.90, 0.70, 0.05]
-pos_slider2 = [0.15, 0.85, 0.70, 0.05]
-pos_slider3 = [0.15, 0.80, 0.70, 0.05]
-pos_slider4 = [0.15, 0.75, 0.70, 0.05]
+pos_slider1 = [0.2, 0.90, 0.70, 0.05]
+pos_slider2 = [0.2, 0.85, 0.70, 0.05]
+pos_slider3 = [0.2, 0.80, 0.70, 0.05]
+pos_slider4 = [0.2, 0.75, 0.70, 0.05]
 
 axMAG1 = plt.axes(pos_slider1, facecolor=axcolor)
 axDEG1 = plt.axes(pos_slider2, facecolor=axcolor)
 axMAG2 = plt.axes(pos_slider3, facecolor=axcolor)
 axDELTADEG = plt.axes(pos_slider4, facecolor=axcolor)
 
-sMAG1 = Slider(axMAG1, "Mag 1", 0, 200, valinit=MAG1, valstep=1)
-sDEG1 = Slider(axDEG1, "Deg 1", 0, 360, valinit=DEG1, valstep=1)
-sMAG2 = Slider(axMAG2, "Mag 2", 0, 200, valinit=MAG2, valstep=1)
+sMAG1 = Slider(axMAG1, "Mag iv", 0, 200, valinit=MAG1, valstep=1)
+sDEG1 = Slider(axDEG1, "Phase Offset", 0, 360, valinit=DEG1, valstep=1)
+sMAG2 = Slider(axMAG2, "Mag ex", 0, 200, valinit=MAG2, valstep=1)
 sDELTADEG = Slider(axDELTADEG, "Delta", 0, 360, valinit=DELTADEG, valstep=1)
 
 sMAG1.on_changed(update)

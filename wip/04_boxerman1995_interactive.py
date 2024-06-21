@@ -108,15 +108,15 @@ axcolor = 'lightgoldenrodyellow'
 # Sliders
 # -----------------------------------------------------------------------------
 # Position parameters [left, bottom, width, height]
-pos_slider1 = [0.15, 0.90, 0.70, 0.05]
-pos_slider2 = [0.15, 0.85, 0.70, 0.05]
-pos_slider3 = [0.15, 0.80, 0.70, 0.05]
+pos_slider1 = [0.27, 0.90, 0.70, 0.05]
+pos_slider2 = [0.27, 0.85, 0.70, 0.05]
+pos_slider3 = [0.27, 0.80, 0.70, 0.05]
 
 axS = plt.axes(pos_slider1, facecolor=axcolor)
 axTHETA = plt.axes(pos_slider2, facecolor=axcolor)
 axR = plt.axes(pos_slider3, facecolor=axcolor)
 
-sS = Slider(axS, "Signal", 0, 200, valinit=S, valstep=1)
+sS = Slider(axS, "Signal Multiplier", 0, 200, valinit=S, valstep=1)
 sTHETA = Slider(axTHETA, "B0 angle", 0, 360, valinit=THETA, valstep=1)
 sR = Slider(axR, "Radius", 0, 10, valinit=R, valstep=0.1)
 

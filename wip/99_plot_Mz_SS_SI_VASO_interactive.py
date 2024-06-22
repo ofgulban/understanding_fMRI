@@ -7,9 +7,16 @@ References
 Activity by Functional Magnetic Resonance Imaging of Blood Volume. 2014. Der 
 Fakultät für Physik und Geowissenschaften der Universität Leipzig eingereichte
 
-- [Also see] Akbari, A., Bollmann, S., Ali, T.S., Barth, M., 2022. Modelling the 
-depth-dependent VASO and BOLD responses in human primary visual cortex. 
-Human Brain Mapping hbm.26094. https://doi.org/10.1002/hbm.26094
+- [Also see] Huber, L., Ivanov, D., Krieger, S.N., Streicher, M.N., Mildner, 
+T., Poser, B.A., Möller, H.E., Turner, R., 2014. Slab-selective, BOLD-corrected
+VASO at 7 Tesla provides measures of cerebral blood volume reactivity with high
+signal-to-noise ratio. Magnetic Resonance in Medicine 72, 137–148.
+https://doi.org/10.1002/mrm.24916
+
+- [Might be useful to see as well] Akbari, A., Bollmann, S., Ali, T.S., 
+Barth, M., 2022. Modelling the depth-dependent VASO and BOLD responses in human
+primary visual cortex. Human Brain Mapping hbm.26094. 
+https://doi.org/10.1002/hbm.26094
 
 """
 import numpy as np

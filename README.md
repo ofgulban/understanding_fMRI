@@ -39,3 +39,6 @@ Ogawa, S., Lee, T., Nayak, A.S., Glynn, P., 1990. Oxygenation‐sensitive contra
 Menon, R.S., 2002. Postacquisition suppression of large‐vessel BOLD signals in high‐resolution fMRI. Magnetic Resonance in Med 47, 1–9. https://doi.org/10.1002/mrm.10041 . These figures and the text referring to these figures will elucidate further on the coupling between phase and magnitude fMRI signal, as well as connecting spin echo and gradient echo concepts. 
 14. **Reading 8:** If you are struggling to understand or imagine the argument of Menon 2002 Figure 2, please look at the Figure 4 from: Hoogenraad, F.G.C., Reichenbach, J.R., Haacke, E.M., Lai, S., Kuppusamy, K., Sprenger, M., 1998. In vivo measurement of changes in venous blood‐oxygenation with high resolution functional MRI at 0.95 Tesla by measuring changes in susceptibility and velocity. Magnetic Resonance in Med 39, 97–107. https://doi.org/10.1002/mrm.1910390116 . Pause and ponder how the oxygenation increase is reflected in phase and magnitude components of the fMRi signal that are shown on this figure.
 15. ... work in progress ...
+
+# Other resources and suggestions
+- @pbellec suggested that at some point in the future this resource might be turned into a living publication at https://preprint.neurolibre.org/10.55458/neurolibre.00019/intro.html

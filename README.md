@@ -41,4 +41,6 @@ Menon, R.S., 2002. Postacquisition suppression of large‐vessel BOLD signals in
 15. ... work in progress ...
 
 # Other resources and suggestions
+- VASOlib: https://github.com/ofgulban/VASOlib
+- MP2RAGElib: https://github.com/ofgulban/mp2ragelib
 - @pbellec suggested that at some point in the future this resource might be turned into a living publication at https://preprint.neurolibre.org/10.55458/neurolibre.00019/intro.html

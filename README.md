@@ -22,8 +22,7 @@ If everything went well, you should be able to see and interactive figure as sho
 <img src="visuals/01_t2star_v1.png"/>
 
 # Pipeline for self studying
-1. **Reading 1:** [A very good starting point] Hagberg, G., Tuzzi, E., 2014. Phase Variations in fMRI Time Series Analysis: Friend or Foe?, in: Advanced Brain Neuroimaging Topics in Health and Disease - Methods and Applications. InTech. https://doi.org/10.5772/58275 
-We are going to reconvene at 15:00 to discuss Hagber, Tuzzi 2014 equations 2 and 3 
+1. **Reading 1:** [A very good starting point] Read and discuss equations 2 and 3 from Hagberg, G., Tuzzi, E., 2014. Phase Variations in fMRI Time Series Analysis: Friend or Foe? <<https://doi.org/10.5772/58275>>
 2. **Task 1:** After running `python 01_t2starsim_v1.py`  and playing around with the parameters, implement Hagberg, Tuzzi 2014 Equation 3 (T1 relaxation).
 3. **Task 3:** Write a new script where the users enters an echo time (e.g. 40 ms) and a percent signal change (e.g. 5 %) to compute the "required T2* change" to give rise to that percent signal change at the chosen echo time. 
 4. **Reading 2 :** Understand Equation 1 of Uludag, K., Müller-Bierl, B., Ugurbil, K., 2009. An integrative model for neuronal activity-induced signal changes for gradient and spin echo functional imaging. NeuroImage 48, 150–65. https://doi.org/10.1016/j.neuroimage.2009.05.051 . Particularly, familiarize yourself with intravascular and extravascular components of the fMRI signal.

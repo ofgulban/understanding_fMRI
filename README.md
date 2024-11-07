@@ -1,7 +1,7 @@
-# Understanding fMRI (work in progress...) [OHBM 2024 Brainhack project]
-Educational simulations for understanding the MRI signal. This project is created for OHBM Brainhack 2024. The main goal is to create single script simulations that builds up an understanding of the MRI signal step by step. Fundamental papers, and equations will be linked. The long term goal of this project is to build this repository as an educational resource to teach MRI basics. An important source of inspiration for this project is https://www.youtube.com/c/3blue1brown .
+# Understanding fMRI 
+Educational simulations for understanding the MRI signal. This project is created for OHBM Brainhack 2024. The main goal is to create single script simulations that builds up an understanding of the MRI signal step by step. Fundamental papers, and equations will be linked. The long term goal of this project is to build this repository as an educational resource to teach MRI basics. As this is a long term project, it will be "wotk in progress" for some time (several years). 
 
-Project summary: https://youtu.be/jQyK0ZV1LzY
+- Project summary video from OHBM 2024 Brainhack event: https://youtu.be/jQyK0ZV1LzY
 
 # Setup
 ## Dependencies
@@ -42,6 +42,7 @@ Menon, R.S., 2002. Postacquisition suppression of large‐vessel BOLD signals in
 15. ... work in progress ...
 
 # Other resources and suggestions
+- An important source of inspiration for this project is https://www.youtube.com/c/3blue1brown .
 - VASOlib: https://github.com/ofgulban/VASOlib
 - MP2RAGElib: https://github.com/ofgulban/mp2ragelib
 - @pbellec suggested that at some point in the future this resource might be turned into a living publication at https://preprint.neurolibre.org/10.55458/neurolibre.00019/intro.html

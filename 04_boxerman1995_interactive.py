@@ -1,4 +1,4 @@
-"""Implement simplified Boxerman95 equations."""
+"""Implement simplified Boxerman95 equations (relates to Biot-Savart law)."""
 
 import numpy as np
 import matplotlib
